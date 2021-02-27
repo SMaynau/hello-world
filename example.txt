@@ -1,0 +1,2 @@
+Creating a .txt from the terminal
+Adding things
