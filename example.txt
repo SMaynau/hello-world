@@ -1,3 +1,6 @@
 Creating a .txt from the terminal
 Adding things
 Hola que tal
+Afegint una branca desde el terminal i pujant el commit
+Mas cosas
+
